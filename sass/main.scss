@@ -1,5 +1,5 @@
-@import '/sass/variables';
-@import '/sass/page-header';
-body {
-    background-color: aqua;
-}
+@import './utils/variables';
+@import './utils/general';
+@import './utils/normalize';
+@import './components/header';
+@import './components/hero';

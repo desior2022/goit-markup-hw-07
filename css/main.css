@@ -913,14 +913,14 @@ input:checked + label .modal-form__check-mark {
   color: #ffffff;
 }
 
-.project__container {
+.project {
   width: 1200px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
 }
 
-.project {
+.project__list {
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
@@ -991,7 +991,7 @@ input:checked + label .modal-form__check-mark {
   color: #757575;
 }
 
-footer {
+.footer {
   background-color: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
